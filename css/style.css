@@ -17,7 +17,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 
-  background: linear-gradient(-52deg, #F9FAFB 0%, #D2D6DB 100% );
+  background: linear-gradient(to bottom, #F9FAFB 0%, #D2D6DB 100% );
 }
 
 
@@ -85,7 +85,7 @@ body {
   font-weight: bold;
   line-height: 28px;
   font-size: 18px;
-  color: black;
+  color: #171717;
 }
 
 .testimonial-card_author img{
